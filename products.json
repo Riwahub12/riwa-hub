@@ -2,10 +2,10 @@
   "shop": {
     "name": "Riwaa Hub",
     "tagline": "Every style. Every you.",
-    "whatsapp": "923001234567",
+    "whatsapp": "923392212020",
     "currency": "Rs",
-    "note": "Delivery all over Pakistan. Cash on delivery available.",
-    "phone": "0300-1234567"
+    "note": "Delivery all over Pakistan. 50% Advance payment and 50% Cash on delivery available.",
+    "phone": "0339-2212020"
   },
   "products": [
     { "id": "P001", "name": "Kundan choker set", "category": "Jewellery", "price": 4500, "unit": "set with earrings", "note": "Gold plated, ruby and pearl drops.", "image": "", "inStock": true },

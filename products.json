@@ -9,16 +9,6 @@
   },
   "products": [
     {
-      "id": "P001",
-      "name": "Kundan choker set",
-      "category": "Jewellery",
-      "price": 4500,
-      "unit": "set with earrings",
-      "note": "Gold plated, ruby and pearl drops.",
-      "image": "images/P001.jpg?v=1788434874550",
-      "inStock": true
-    },
-    {
       "id": "P002",
       "name": "Pearl drop earrings",
       "category": "Jewellery",
@@ -135,7 +125,7 @@
       "price": 2500,
       "unit": "Piece",
       "note": "Glass",
-      "image": "",
+      "image": "images/P001.jpg?v=1788449710023",
       "inStock": true
     },
     {

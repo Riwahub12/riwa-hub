@@ -8,17 +8,165 @@
     "phone": "0339-2212020"
   },
   "products": [
-    { "id": "P001", "name": "Kundan choker set", "category": "Jewellery", "price": 4500, "unit": "set with earrings", "note": "Gold plated, ruby and pearl drops.", "image": "", "inStock": true },
-    { "id": "P002", "name": "Pearl drop earrings", "category": "Jewellery", "price": 1200, "unit": "pair", "note": "Freshwater pearls on gold wire.", "image": "", "inStock": true },
-    { "id": "P003", "name": "Bangle stack, set of 6", "category": "Jewellery", "price": 2200, "unit": "set", "note": "Meena work, maroon and gold.", "image": "", "inStock": true },
-    { "id": "P004", "name": "Embroidered lawn 3-piece", "category": "Women's Clothing", "price": 5800, "unit": "unstitched", "note": "Shirt, trouser and chiffon dupatta.", "image": "", "inStock": true },
-    { "id": "P005", "name": "Chiffon party wear", "category": "Women's Clothing", "price": 9500, "unit": "stitched, medium", "note": "Hand embellished neckline. Also in small and large.", "image": "", "inStock": true },
-    { "id": "P006", "name": "Cotton kurti, printed", "category": "Women's Clothing", "price": 2400, "unit": "stitched", "note": "Sizes S to XL. Six prints available.", "image": "", "inStock": false },
-    { "id": "P007", "name": "Velvet clutch", "category": "Bags", "price": 3200, "unit": "per piece", "note": "Maroon velvet with gold chain strap.", "image": "", "inStock": true },
-    { "id": "P008", "name": "Everyday tote", "category": "Bags", "price": 4100, "unit": "per piece", "note": "Faux leather, fits a laptop.", "image": "", "inStock": true },
-    { "id": "P009", "name": "Matte lipstick", "category": "Beauty", "price": 950, "unit": "per stick", "note": "Twelve shades, long wear.", "image": "", "inStock": true },
-    { "id": "P010", "name": "Kajal pencil", "category": "Beauty", "price": 480, "unit": "per piece", "note": "Waterproof, smudge free.", "image": "", "inStock": true },
-    { "id": "P011", "name": "Silk hair scarf", "category": "Accessories", "price": 1400, "unit": "per piece", "note": "Printed satin, 60 x 60 cm.", "image": "", "inStock": true },
-    { "id": "P012", "name": "Embroidered belt", "category": "Accessories", "price": 1850, "unit": "per piece", "note": "Adjustable, antique gold buckle.", "image": "", "inStock": true }
+    {
+      "id": "P001",
+      "name": "Kundan choker set",
+      "category": "Jewellery",
+      "price": 4500,
+      "unit": "set with earrings",
+      "note": "Gold plated, ruby and pearl drops.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P002",
+      "name": "Pearl drop earrings",
+      "category": "Jewellery",
+      "price": 1200,
+      "unit": "pair",
+      "note": "Freshwater pearls on gold wire.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P003",
+      "name": "Bangle stack, set of 6",
+      "category": "Jewellery",
+      "price": 2200,
+      "unit": "set",
+      "note": "Meena work, maroon and gold.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P004",
+      "name": "Embroidered lawn 3-piece",
+      "category": "Women's Clothing",
+      "price": 5800,
+      "unit": "unstitched",
+      "note": "Shirt, trouser and chiffon dupatta.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P005",
+      "name": "Chiffon party wear",
+      "category": "Women's Clothing",
+      "price": 9500,
+      "unit": "stitched, medium",
+      "note": "Hand embellished neckline. Also in small and large.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P006",
+      "name": "Cotton kurti, printed",
+      "category": "Women's Clothing",
+      "price": 2400,
+      "unit": "stitched",
+      "note": "Sizes S to XL. Six prints available.",
+      "image": "",
+      "inStock": false
+    },
+    {
+      "id": "P007",
+      "name": "Velvet clutch",
+      "category": "Bags",
+      "price": 3200,
+      "unit": "per piece",
+      "note": "Maroon velvet with gold chain strap.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P008",
+      "name": "Everyday tote",
+      "category": "Bags",
+      "price": 4100,
+      "unit": "per piece",
+      "note": "Faux leather, fits a laptop.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P009",
+      "name": "Matte lipstick",
+      "category": "Beauty",
+      "price": 950,
+      "unit": "per stick",
+      "note": "Twelve shades, long wear.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P010",
+      "name": "Kajal pencil",
+      "category": "Beauty",
+      "price": 480,
+      "unit": "per piece",
+      "note": "Waterproof, smudge free.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P011",
+      "name": "Silk hair scarf",
+      "category": "Accessories",
+      "price": 1400,
+      "unit": "per piece",
+      "note": "Printed satin, 60 x 60 cm.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P012",
+      "name": "Embroidered belt",
+      "category": "Accessories",
+      "price": 1850,
+      "unit": "per piece",
+      "note": "Adjustable, antique gold buckle.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P001",
+      "name": "Glass Pot",
+      "category": "Jewellery",
+      "price": 2500,
+      "unit": "Piece",
+      "note": "Glass",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P002",
+      "name": "Jug set",
+      "category": "Jewellery",
+      "price": 1400,
+      "unit": "Piece",
+      "note": "Glass 1600ml",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P003",
+      "name": "Black Handbag",
+      "category": "Bags",
+      "price": 3800,
+      "unit": "Piece",
+      "note": "Premium bag",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P004",
+      "name": "Red Lipstick",
+      "category": "Beauty",
+      "price": 950,
+      "unit": "Piece",
+      "note": "Matte",
+      "image": "",
+      "inStock": true
+    }
   ]
 }

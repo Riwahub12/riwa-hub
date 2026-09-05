@@ -16,7 +16,9 @@
       "unit": "pair",
       "note": "Freshwater pearls on gold wire.",
       "image": "",
-      "inStock": true
+      "inStock": true,
+      "mrp": 1500,
+      "isNew": true
     },
     {
       "id": "P003",

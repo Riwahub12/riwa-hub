@@ -182,12 +182,12 @@
       "name": "Glass Deer Jars (7PCs)",
       "category": "Kitchen",
       "price": 5600,
-      "mrp": 0,
+      "mrp": 6000,
       "unit": "set",
       "note": "Big Glass Jars",
       "image": "images/P0002.jpg?v=1788613934932",
       "inStock": true,
-      "isNew": false,
+      "isNew": true,
       "isBest": false
     },
     {
@@ -208,22 +208,22 @@
       "name": "Glass Coffee Jars black (3PCs )",
       "category": "Kitchen",
       "price": 2600,
-      "mrp": 0,
+      "mrp": 3100,
       "unit": "set",
-      "note": "3PCs Jars",
+      "note": "3PCs Jars with Wooden Tray",
       "image": "images/P0004.jpg?v=1788613934932",
       "inStock": true,
       "isNew": false,
-      "isBest": false
+      "isBest": true
     },
     {
       "id": "P0005",
       "name": "Glass Coffee Jars white (3PCs)",
       "category": "Kitchen",
       "price": 2600,
-      "mrp": 0,
+      "mrp": 3100,
       "unit": "set",
-      "note": "3PCs Jars",
+      "note": "3PCs Jars with Wooden Tray",
       "image": "images/P0005.jpg?v=1788613934932",
       "inStock": true,
       "isNew": false,
@@ -236,7 +236,7 @@
       "price": 3350,
       "mrp": 0,
       "unit": "set",
-      "note": "6PCs Jars",
+      "note": "6PCs Jars with Tray",
       "image": "images/P0006.jpg?v=1788613934932",
       "inStock": true,
       "isNew": false,
@@ -247,12 +247,12 @@
       "name": "Glass king crown jars (4PCs)",
       "category": "Kitchen",
       "price": 3350,
-      "mrp": 0,
+      "mrp": 3500,
       "unit": "set",
-      "note": "4PCs Jars",
+      "note": "4PCs Jars with Tray",
       "image": "images/P0007.jpg?v=1788613934932",
       "inStock": true,
-      "isNew": false,
+      "isNew": true,
       "isBest": false
     },
     {
@@ -262,7 +262,7 @@
       "price": 3700,
       "mrp": 0,
       "unit": "set",
-      "note": "4PCs Jars",
+      "note": "4PCs Jars with Tray",
       "image": "images/P0008.jpg?v=1788613934932",
       "inStock": true,
       "isNew": false,
@@ -286,13 +286,13 @@
       "name": "Wooden Glass cantester set (3PCs)",
       "category": "Kitchen",
       "price": 3250,
-      "mrp": 0,
+      "mrp": 3500,
       "unit": "set",
       "note": "3PCs Cantester Set",
       "image": "images/P0010.jpg?v=1788613934932",
       "inStock": true,
       "isNew": false,
-      "isBest": false
+      "isBest": true
     }
   ]
 }

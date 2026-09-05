@@ -4,31 +4,159 @@
     "tagline": "Every style. Every you.",
     "whatsapp": "923392212020",
     "currency": "Rs",
-    "note": "Delivery all over Pakistan. 50% advance, 50% cash on delivery.",
+    "note": "Delivery all over Pakistan. 50% Advance payment and 50% Cash on delivery available.",
     "phone": "0339-2212020"
   },
   "products": [
-    { "id": "P001", "name": "Kundan choker set", "category": "Jewellery", "price": 3800, "mrp": 4500, "unit": "set with earrings", "note": "Gold plated, ruby and pearl drops.", "image": "", "inStock": true, "isNew": false, "isBest": true },
-    { "id": "P002", "name": "Pearl drop earrings", "category": "Jewellery", "price": 1200, "mrp": 0, "unit": "pair", "note": "Freshwater pearls on gold wire.", "image": "", "inStock": true, "isNew": true, "isBest": false },
-    { "id": "P003", "name": "Bangle stack, set of 6", "category": "Jewellery", "price": 1750, "mrp": 2200, "unit": "set", "note": "Meena work, maroon and gold.", "image": "", "inStock": true, "isNew": false, "isBest": false },
-    { "id": "P004", "name": "Velvet clutch", "category": "Bags", "price": 3200, "mrp": 0, "unit": "per piece", "note": "Maroon velvet with gold chain strap.", "image": "", "inStock": true, "isNew": false, "isBest": true },
-    { "id": "P005", "name": "Everyday tote", "category": "Bags", "price": 3300, "mrp": 4100, "unit": "per piece", "note": "Faux leather, fits a laptop.", "image": "", "inStock": true, "isNew": false, "isBest": false },
-    { "id": "P006", "name": "Mini sling bag", "category": "Bags", "price": 1950, "mrp": 0, "unit": "per piece", "note": "Quilted, adjustable strap. Four colours.", "image": "", "inStock": true, "isNew": true, "isBest": false },
-    { "id": "P007", "name": "Matte lipstick", "category": "Beauty and Personal Care", "price": 950, "mrp": 0, "unit": "per stick", "note": "Twelve shades, long wear.", "image": "", "inStock": true, "isNew": false, "isBest": true },
-    { "id": "P008", "name": "Kajal pencil", "category": "Beauty and Personal Care", "price": 380, "mrp": 480, "unit": "per piece", "note": "Waterproof, smudge free.", "image": "", "inStock": true, "isNew": false, "isBest": false },
-    { "id": "P009", "name": "Argan hair serum", "category": "Beauty and Personal Care", "price": 1150, "mrp": 1400, "unit": "100 ml", "note": "Light finish, no greasy feel.", "image": "", "inStock": false, "isNew": false, "isBest": false },
-    { "id": "P010", "name": "Non-stick frying pan", "category": "Kitchen", "price": 2650, "mrp": 3400, "unit": "26 cm", "note": "Granite coating, works on gas and induction.", "image": "", "inStock": true, "isNew": false, "isBest": true },
-    { "id": "P011", "name": "Airtight jar set of 3", "category": "Kitchen", "price": 1450, "mrp": 0, "unit": "set", "note": "Borosilicate glass with bamboo lids.", "image": "", "inStock": true, "isNew": true, "isBest": false },
-    { "id": "P012", "name": "Knife and chopping board set", "category": "Kitchen", "price": 1990, "mrp": 2600, "unit": "5 pieces", "note": "Stainless steel, wooden board included.", "image": "", "inStock": true, "isNew": false, "isBest": false },
-    { "id": "P013", "name": "Cotton bedsheet, king", "category": "Home and Living", "price": 4200, "mrp": 5500, "unit": "with 2 pillow covers", "note": "Printed cotton, colours stay after washing.", "image": "", "inStock": true, "isNew": false, "isBest": true },
-    { "id": "P014", "name": "Fleece throw blanket", "category": "Home and Living", "price": 2300, "mrp": 0, "unit": "single", "note": "Soft brushed finish, warm for winter.", "image": "", "inStock": true, "isNew": true, "isBest": false },
-    { "id": "P015", "name": "Storage basket, woven", "category": "Home and Living", "price": 1350, "mrp": 1700, "unit": "large", "note": "Cotton rope with handles.", "image": "", "inStock": true, "isNew": false, "isBest": false },
-    { "id": "P016", "name": "Ceramic vase", "category": "Home Decor", "price": 1800, "mrp": 0, "unit": "per piece", "note": "Matte cream, 24 cm tall.", "image": "", "inStock": true, "isNew": false, "isBest": false },
-    { "id": "P017", "name": "Scented candle trio", "category": "Home Decor", "price": 1600, "mrp": 2100, "unit": "set of 3", "note": "Oud, jasmine and vanilla. Around 20 hours each.", "image": "", "inStock": true, "isNew": true, "isBest": true },
-    { "id": "P018", "name": "Wall mirror, round", "category": "Home Decor", "price": 3900, "mrp": 4800, "unit": "40 cm", "note": "Antique gold frame.", "image": "", "inStock": true, "isNew": false, "isBest": false },
-    { "id": "P019", "name": "Wireless earbuds", "category": "Gadgets", "price": 2900, "mrp": 3900, "unit": "with charging case", "note": "Bluetooth 5.3, around 5 hours per charge.", "image": "", "inStock": true, "isNew": true, "isBest": true },
-    { "id": "P020", "name": "Power bank 10000 mAh", "category": "Gadgets", "price": 3100, "mrp": 0, "unit": "per piece", "note": "Two ports, fast charging.", "image": "", "inStock": true, "isNew": false, "isBest": false },
-    { "id": "P021", "name": "Rechargeable table fan", "category": "Gadgets", "price": 4600, "mrp": 5900, "unit": "per piece", "note": "Runs up to 6 hours, three speeds.", "image": "", "inStock": false, "isNew": false, "isBest": false },
-    { "id": "P022", "name": "Silk hair scarf", "category": "Beauty and Personal Care", "price": 1400, "mrp": 0, "unit": "per piece", "note": "Printed satin, 60 x 60 cm.", "image": "", "inStock": true, "isNew": false, "isBest": false }
+    {
+      "id": "P002",
+      "name": "Pearl drop earrings",
+      "category": "Jewellery",
+      "price": 1200,
+      "unit": "pair",
+      "note": "Freshwater pearls on gold wire.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P003",
+      "name": "Bangle stack, set of 6",
+      "category": "Beauty",
+      "price": 2200,
+      "unit": "set",
+      "note": "Meena work, maroon and gold.",
+      "image": "images/P003.jpg?v=1788435041945",
+      "inStock": true
+    },
+    {
+      "id": "P004",
+      "name": "Embroidered lawn 3-piece",
+      "category": "Women's Clothing",
+      "price": 5800,
+      "unit": "unstitched",
+      "note": "Shirt, trouser and chiffon dupatta.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P005",
+      "name": "Chiffon party wear",
+      "category": "Gadgets",
+      "price": 9500,
+      "unit": "stitched, medium",
+      "note": "Hand embellished neckline. Also in small and large.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P006",
+      "name": "Cotton kurti, printed",
+      "category": "Home Decor ",
+      "price": 2400,
+      "unit": "stitched",
+      "note": "Sizes S to XL. Six prints available.",
+      "image": "",
+      "inStock": false
+    },
+    {
+      "id": "P007",
+      "name": "Velvet clutch",
+      "category": "Bags",
+      "price": 3200,
+      "unit": "per piece",
+      "note": "Maroon velvet with gold chain strap.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P008",
+      "name": "Everyday tote",
+      "category": "Bags",
+      "price": 4100,
+      "unit": "per piece",
+      "note": "Faux leather, fits a laptop.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P009",
+      "name": "Matte lipstick",
+      "category": "Beauty",
+      "price": 950,
+      "unit": "per stick",
+      "note": "Twelve shades, long wear.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P010",
+      "name": "Kajal pencil",
+      "category": "Beauty",
+      "price": 480,
+      "unit": "per piece",
+      "note": "Waterproof, smudge free.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P011",
+      "name": "Silk hair scarf",
+      "category": "Accessories",
+      "price": 1400,
+      "unit": "per piece",
+      "note": "Printed satin, 60 x 60 cm.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P012",
+      "name": "Embroidered belt",
+      "category": "Accessories",
+      "price": 1850,
+      "unit": "per piece",
+      "note": "Adjustable, antique gold buckle.",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P001",
+      "name": "Glass Pot",
+      "category": "Jewellery",
+      "price": 2500,
+      "unit": "Piece",
+      "note": "Glass",
+      "image": "images/P001.jpg?v=1788449710023",
+      "inStock": true
+    },
+    {
+      "id": "P002",
+      "name": "Jug set",
+      "category": "Jewellery",
+      "price": 1400,
+      "unit": "Piece",
+      "note": "Glass 1600ml",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P003",
+      "name": "Black Handbag",
+      "category": "Bags",
+      "price": 3800,
+      "unit": "Piece",
+      "note": "Premium bag",
+      "image": "",
+      "inStock": true
+    },
+    {
+      "id": "P004",
+      "name": "Red Lipstick",
+      "category": "Beauty",
+      "price": 950,
+      "unit": "Piece",
+      "note": "Matte",
+      "image": "",
+      "inStock": true
+    }
   ]
 }

@@ -130,7 +130,7 @@
       "name": "Wooden Glass cantester set (3PCs)",
       "category": "Kitchen",
       "price": 3250,
-      "mrp": 3500,
+      "mrp": 3499,
       "unit": "set",
       "note": "3PCs Cantester Set",
       "image": "images/P0010.jpg?v=1788613934932",
@@ -182,7 +182,7 @@
       "name": "3PCS jar set with Tray",
       "category": "Kitchen",
       "price": 2600,
-      "mrp": 0,
+      "mrp": 2900,
       "unit": "set",
       "note": "Glass 500ml Each",
       "image": "images/P0014.jpg?v=1788625295083",
@@ -208,7 +208,7 @@
       "name": "3PCs Jar set with Steel lid different sizes",
       "category": "Kitchen",
       "price": 2000,
-      "mrp": 0,
+      "mrp": 2300,
       "unit": "set",
       "note": "Glass 685ml \n 1050ml 1400ml",
       "image": "images/P0016.jpg?v=1788625295083",
@@ -221,7 +221,7 @@
       "name": "Glass Deer Jars (4PCs)",
       "category": "Kitchen",
       "price": 4700,
-      "mrp": 0,
+      "mrp": 5000,
       "unit": "set",
       "note": "4PCs Jars",
       "image": "images/P0017.jpg?v=1788625295083",
@@ -239,7 +239,7 @@
       "note": "4PCs Jars",
       "image": "images/P0018.jpg?v=1788625295083",
       "inStock": true,
-      "isNew": false,
+      "isNew": true,
       "isBest": false
     },
     {
@@ -247,13 +247,13 @@
       "name": "Ceramic Coffee Jars white & Gold (3PCs)",
       "category": "Kitchen",
       "price": 2200,
-      "mrp": 0,
+      "mrp": 2600,
       "unit": "set",
       "note": "With Ceramic Tray",
       "image": "images/P0019.jpg?v=1788625295083",
       "inStock": true,
       "isNew": false,
-      "isBest": false
+      "isBest": true
     },
     {
       "id": "P0020",
@@ -344,7 +344,7 @@
       "image": "images/P0026.jpg?v=1788675893118",
       "inStock": true,
       "isNew": false,
-      "isBest": false
+      "isBest": true
     },
     {
       "id": "P0027",
@@ -377,12 +377,12 @@
       "name": "Glass Dispenser Golden Round Shape",
       "category": "Kitchen",
       "price": 3500,
-      "mrp": 0,
+      "mrp": 3800,
       "unit": "Per Piece",
       "note": "3 Litre",
       "image": "images/P0029.jpg?v=1788675893118",
       "inStock": true,
-      "isNew": false,
+      "isNew": true,
       "isBest": false
     },
     {
@@ -403,12 +403,12 @@
       "name": "Glass Dispenser Golden Round Shape",
       "category": "Kitchen",
       "price": 3750,
-      "mrp": 0,
+      "mrp": 4000,
       "unit": "Per Piece",
       "note": "5 Litre",
       "image": "images/P0031.jpg?v=1788675893118",
       "inStock": true,
-      "isNew": false,
+      "isNew": true,
       "isBest": false
     },
     {
@@ -429,12 +429,12 @@
       "name": "Glass Dispenser Golden Round Shape",
       "category": "Kitchen",
       "price": 3500,
-      "mrp": 0,
+      "mrp": 3700,
       "unit": "Per Piece",
       "note": "3.6 Litre",
       "image": "images/P0033.jpg?v=1788675893118",
       "inStock": true,
-      "isNew": false,
+      "isNew": true,
       "isBest": false
     },
     {
@@ -442,13 +442,13 @@
       "name": "Glass Dispenser Golden Round Shape",
       "category": "Kitchen",
       "price": 3200,
-      "mrp": 0,
+      "mrp": 3500,
       "unit": "Per Piece",
       "note": "2600ml",
       "image": "images/P0034.jpg?v=1788675893118",
       "inStock": true,
       "isNew": false,
-      "isBest": false
+      "isBest": true
     },
     {
       "id": "P0035",
@@ -460,7 +460,7 @@
       "note": "4 Litre",
       "image": "images/P0035.jpg?v=1788675893118",
       "inStock": true,
-      "isNew": false,
+      "isNew": true,
       "isBest": false
     },
     {
@@ -603,7 +603,7 @@
       "note": "Jug (1500ml) With Revolving wooden Tray",
       "image": "images/P0046.jpg?v=1788675893118",
       "inStock": true,
-      "isNew": false,
+      "isNew": true,
       "isBest": false
     },
     {
@@ -617,7 +617,7 @@
       "image": "images/P0047.jpg?v=1788675893118",
       "inStock": true,
       "isNew": false,
-      "isBest": false
+      "isBest": true
     },
     {
       "id": "P0048",
@@ -663,39 +663,39 @@
       "name": "Glass Jug Set Golden (7 PCs)",
       "category": "Kitchen",
       "price": 2900,
-      "mrp": 0,
+      "mrp": 3200,
       "unit": "set",
       "note": "01 Jug (1700ml), 06 Glass (320ml)",
       "image": "images/P0051.jpg?v=1788675893118",
       "inStock": true,
       "isNew": false,
-      "isBest": false
+      "isBest": true
     },
     {
       "id": "P0052",
       "name": "Glass Jug Set Golden (7 PCs)",
       "category": "Kitchen",
       "price": 2900,
-      "mrp": 0,
+      "mrp": 3200,
       "unit": "set",
       "note": "01 Jug (1700ml), 06 Glass (320ml)",
       "image": "images/P0052.jpg?v=1788675893118",
       "inStock": true,
       "isNew": false,
-      "isBest": false
+      "isBest": true
     },
     {
       "id": "P0053",
       "name": "Glass Jug Set Smoke (7 PCs)",
       "category": "Kitchen",
       "price": 2900,
-      "mrp": 0,
+      "mrp": 3200,
       "unit": "set",
       "note": "01 Jug (1700ml), 06 Glass (320ml)",
       "image": "images/P0053.jpg?v=1788675893118",
       "inStock": true,
       "isNew": false,
-      "isBest": false
+      "isBest": true
     },
     {
       "id": "P0054",
@@ -707,7 +707,7 @@
       "note": "Kettle (1000ml), Cup (130ml) with Tray",
       "image": "images/P0054.jpg?v=1788675893118",
       "inStock": true,
-      "isNew": false,
+      "isNew": true,
       "isBest": false
     },
     {
@@ -720,7 +720,7 @@
       "note": "Kettle (1000ml), Cup (130ml) with Tray",
       "image": "images/P0055.jpg?v=1788675893118",
       "inStock": true,
-      "isNew": false,
+      "isNew": true,
       "isBest": false
     },
     {
@@ -741,13 +741,13 @@
       "name": "Glass Kettle Transparent with Wooden Handle",
       "category": "Kitchen",
       "price": 2200,
-      "mrp": 0,
+      "mrp": 2400,
       "unit": "Per Piece",
       "note": "900ml",
       "image": "images/P0057.jpg?v=1788675893118",
       "inStock": true,
       "isNew": false,
-      "isBest": false
+      "isBest": true
     },
     {
       "id": "P0058",
@@ -759,7 +759,7 @@
       "note": "950ml",
       "image": "images/P0058.jpg?v=1788675893118",
       "inStock": true,
-      "isNew": false,
+      "isNew": true,
       "isBest": false
     },
     {
@@ -773,7 +773,7 @@
       "image": "images/P0059.jpg?v=1788675893118",
       "inStock": true,
       "isNew": false,
-      "isBest": false
+      "isBest": true
     },
     {
       "id": "P0060",
@@ -785,7 +785,7 @@
       "note": "1000ml",
       "image": "images/P0060.jpg?v=1788675893118",
       "inStock": true,
-      "isNew": false,
+      "isNew": true,
       "isBest": false
     },
     {

@@ -1727,7 +1727,7 @@
     {
       "id": "P0133",
       "name": "Washer Gun",
-      "category": "Gagdets",
+      "category": "Gadgets",
       "price": 3600,
       "mrp": 0,
       "unit": "Per Piece",
@@ -1740,7 +1740,7 @@
     {
       "id": "P0134",
       "name": "Washer Gun",
-      "category": "Gagdets",
+      "category": "Gadgets",
       "price": 4600,
       "mrp": 0,
       "unit": "Per Piece",
@@ -1753,7 +1753,7 @@
     {
       "id": "P0135",
       "name": "Double Battery Drill Machine",
-      "category": "Gagdets",
+      "category": "Gadgets",
       "price": 5600,
       "mrp": 0,
       "unit": "",
@@ -1805,7 +1805,7 @@
     {
       "id": "P0139",
       "name": "Automatic Neck And Shoulder Massager",
-      "category": "Gagdets",
+      "category": "Gadgets",
       "price": 4500,
       "mrp": 0,
       "unit": "per Piece",
@@ -1922,7 +1922,7 @@
     {
       "id": "P0148",
       "name": "Robot Sweeping & Auto Cleaning Mop",
-      "category": "Gagdets",
+      "category": "Gadgets",
       "price": 2050,
       "mrp": 0,
       "unit": "per Piece",
@@ -1948,7 +1948,7 @@
     {
       "id": "P0150",
       "name": "Rechargeable Smart Scalp Massager",
-      "category": "Gagdets",
+      "category": "Gadgets",
       "price": 1700,
       "mrp": 0,
       "unit": "per Piece",
@@ -2286,7 +2286,7 @@
     {
       "id": "P0176",
       "name": "Digital Body Weight Scale",
-      "category": "Gagdets",
+      "category": "Gadgets",
       "price": 2200,
       "mrp": 0,
       "unit": "Per Piece",
@@ -2351,7 +2351,7 @@
     {
       "id": "P0181",
       "name": "Portable Menstrual Heating Cramp Belt",
-      "category": "Gagdets",
+      "category": "Gadgets",
       "price": 1500,
       "mrp": 0,
       "unit": "Per Piece",
@@ -2468,7 +2468,7 @@
     {
       "id": "P0190",
       "name": "RECHARGEABLE MOSQUITO RACKET",
-      "category": "Gagdets",
+      "category": "Gadgets",
       "price": 2000,
       "mrp": 0,
       "unit": "Per Piece",
@@ -2507,7 +2507,7 @@
     {
       "id": "P0193",
       "name": "Rechargeable Lint Remover",
-      "category": "Gagdets",
+      "category": "Gadgets",
       "price": 1000,
       "mrp": 0,
       "unit": "Per Piece",
@@ -2520,7 +2520,7 @@
     {
       "id": "P0194",
       "name": "Massage Gun",
-      "category": "Gagdets",
+      "category": "Gadgets",
       "price": 2000,
       "mrp": 0,
       "unit": "Per Piece",
@@ -2624,7 +2624,7 @@
     {
       "id": "P0202",
       "name": "Mist Fan 5Hole",
-      "category": "Gagdets",
+      "category": "Gadgets",
       "price": 2200,
       "mrp": 0,
       "unit": "Per Piece",
@@ -2793,7 +2793,7 @@
     {
       "id": "P0215",
       "name": "Rechargeable Touch Led Table Lamp",
-      "category": "Home d�cor",
+      "category": "Home decor",
       "price": 2000,
       "mrp": 0,
       "unit": "Per Piece",

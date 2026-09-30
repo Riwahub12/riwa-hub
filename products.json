@@ -2935,7 +2935,7 @@
     },
     {
       "id": "P0226",
-      "name": "Glass Mug with Straw",
+      "name": "Glass Mug with straw",
       "category": "Kitchen",
       "price": 840,
       "mrp": 0,
@@ -2961,7 +2961,7 @@
     },
     {
       "id": "P0228",
-      "name": "Glass Mug with Straw",
+      "name": "Glass Mug with straw",
       "category": "Kitchen",
       "price": 840,
       "mrp": 0,
@@ -2987,7 +2987,7 @@
     },
     {
       "id": "P0230",
-      "name": "Stainless Steel Cutting Board",
+      "name": "Stainless steel cutting board",
       "category": "Kitchen",
       "price": 1250,
       "mrp": 0,
@@ -3000,7 +3000,7 @@
     },
     {
       "id": "P0231",
-      "name": "Stainless Steel Cutlery holder",
+      "name": "Stainless steel cutlery holder",
       "category": "Kitchen",
       "price": 1300,
       "mrp": 0,
@@ -3039,7 +3039,7 @@
     },
     {
       "id": "P0234",
-      "name": "3 set of Acrylic Tray",
+      "name": "3 set of acrylic tray",
       "category": "Kitchen",
       "price": 3000,
       "mrp": 0,
@@ -3065,7 +3065,7 @@
     },
     {
       "id": "P0236",
-      "name": "Acrylic Brush Holder",
+      "name": "Acrylic Brush holder",
       "category": "Home",
       "price": 500,
       "mrp": 0,
@@ -3104,7 +3104,7 @@
     },
     {
       "id": "P0239",
-      "name": "Acrylic Vegetable Washer",
+      "name": "Acrylic vegetable washer",
       "category": "Kitchen",
       "price": 1300,
       "mrp": 0,
@@ -3182,7 +3182,7 @@
     },
     {
       "id": "P0245",
-      "name": "3PCs Stainless Steel Bowl",
+      "name": "3 stainless steel bowl",
       "category": "Kitchen",
       "price": 1200,
       "mrp": 0,
@@ -3299,7 +3299,7 @@
     },
     {
       "id": "P0254",
-      "name": "Stainless Steel Rolling Pin",
+      "name": "Stainless steel Rolling Pin",
       "category": "Kitchen",
       "price": 700,
       "mrp": 0,
@@ -3377,7 +3377,7 @@
     },
     {
       "id": "P0260",
-      "name": "6 Pcs Round Storage Box",
+      "name": "6 Pcs round storage box",
       "category": "Kitchen",
       "price": 2200,
       "mrp": 0,
@@ -3429,7 +3429,7 @@
     },
     {
       "id": "P0264",
-      "name": "Glass Soap Dispenser Bubble style",
+      "name": "Glass Soap Dispenser bubble style",
       "category": "Home",
       "price": 900,
       "mrp": 0,
@@ -3676,7 +3676,7 @@
     },
     {
       "id": "P0283",
-      "name": "16pcs Coffee Stencil",
+      "name": "16pcs coffee stencil",
       "category": "Kitchen",
       "price": 400,
       "mrp": 0,
@@ -3780,7 +3780,7 @@
     },
     {
       "id": "P0291",
-      "name": "Hook Home",
+      "name": "Hook home",
       "category": "Home",
       "price": 320,
       "mrp": 0,
@@ -3793,7 +3793,7 @@
     },
     {
       "id": "P0292",
-      "name": "2PCs Peeler",
+      "name": "2PCs peeler",
       "category": "Kitchen",
       "price": 340,
       "mrp": 0,
@@ -3845,7 +3845,7 @@
     },
     {
       "id": "P0296",
-      "name": "Flower Heat Pad",
+      "name": "Flower heat pad",
       "category": "Kitchen",
       "price": 270,
       "mrp": 0,
@@ -4144,7 +4144,7 @@
     },
     {
       "id": "P0319",
-      "name": "Double Wall Sipper",
+      "name": "Double wall sipper",
       "category": "Home",
       "price": 1200,
       "mrp": 0,
@@ -4495,7 +4495,7 @@
     },
     {
       "id": "P0346",
-      "name": "Wall Mounted Cosmetic Soap Organizer",
+      "name": "WALL MOUNTED COSMETIC AND SOAP ORGANIZER",
       "category": "Home Decor",
       "price": 1000,
       "mrp": 0,
@@ -4807,10 +4807,10 @@
     },
     {
       "id": "P0370",
-      "name": "Mobile Phone Holder Folding�",
+      "name": "Mobile phone holder folding�",
       "category": "Home",
       "price": 400,
-      "mrp": 600,
+      "mrp": 0,
       "unit": "Per Piece",
       "note": "",
       "image": "images/P0370.jpg?v=1790518433514",
@@ -4833,12 +4833,12 @@
     },
     {
       "id": "P0372",
-      "name": "Spice Jar Round Rotating",
+      "name": "SPICE JAR ROUND ROTATION STAINLESS STEEL BODY",
       "category": "Kitchen",
       "price": 3500,
       "mrp": 0,
       "unit": "SET",
-      "note": "12Pcs  STAINLESS STEEL BODY",
+      "note": "12Pcs",
       "image": "images/P0372.jpg?v=1790518433514",
       "inStock": true,
       "isNew": false,
@@ -5827,7 +5827,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "",
-      "image": "",
+      "image": "images/P0448.jpg?v=1790782635745",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5840,7 +5840,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "",
-      "image": "",
+      "image": "images/P0449.jpg?v=1790782635745",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5853,7 +5853,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "",
-      "image": "",
+      "image": "images/P0450.jpg?v=1790782635745",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5866,7 +5866,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "",
-      "image": "",
+      "image": "images/P0451.jpg?v=1790782635745",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5879,7 +5879,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "Stainless steel",
-      "image": "",
+      "image": "images/P0452.jpg?v=1790782635745",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5892,7 +5892,7 @@
       "mrp": 0,
       "unit": "set",
       "note": "Stainless steel",
-      "image": "",
+      "image": "images/P0453.jpg?v=1790782635745",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5905,7 +5905,7 @@
       "mrp": 0,
       "unit": "set",
       "note": "Stainless steel 2.2,  2.4, 2.6, 2.8, 2.10",
-      "image": "",
+      "image": "images/P0454.jpg?v=1790782635745",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5918,7 +5918,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "leather material",
-      "image": "",
+      "image": "images/P0455.jpg?v=1790782635745",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5931,7 +5931,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "Stainless steel",
-      "image": "",
+      "image": "images/P0456.jpg?v=1790782635745",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5944,7 +5944,7 @@
       "mrp": 0,
       "unit": "set",
       "note": "Stainless steel",
-      "image": "",
+      "image": "images/P0457.jpg?v=1790782635745",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5957,7 +5957,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "Stainless steel",
-      "image": "",
+      "image": "images/P0458.jpg?v=1790783196097",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5970,7 +5970,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "Stainless steel",
-      "image": "",
+      "image": "images/P0459.jpg?v=1790783196097",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5983,7 +5983,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "Stainless steel",
-      "image": "",
+      "image": "images/P0460.jpg?v=1790783196097",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -5996,7 +5996,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "Stainless steel",
-      "image": "",
+      "image": "images/P0461.jpg?v=1790783196097",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -6009,7 +6009,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "Stainless steel",
-      "image": "",
+      "image": "images/P0462.jpg?v=1790783196097",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -6022,7 +6022,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "Stainless steel",
-      "image": "",
+      "image": "images/P0463.jpg?v=1790783196097",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -6035,7 +6035,7 @@
       "mrp": 0,
       "unit": "set",
       "note": "Plastic material",
-      "image": "",
+      "image": "images/P0464.jpg?v=1790783196097",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -6048,7 +6048,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "",
-      "image": "",
+      "image": "images/P0465.jpg?v=1790783196097",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -6061,7 +6061,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "for Travel & School",
-      "image": "",
+      "image": "images/P0466.jpg?v=1790783196097",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -6074,7 +6074,7 @@
       "mrp": 0,
       "unit": "Per Piece",
       "note": "Plastic material",
-      "image": "",
+      "image": "images/P0467.jpg?v=1790783196097",
       "inStock": true,
       "isNew": false,
       "isBest": false
@@ -6159,7 +6159,7 @@
     },
     {
       "id": "P0474",
-      "name": "Hair Removal Drainer Cleaner Stick",
+      "name": "HAIR REMOVAL DRAINer CLEANER STICK",
       "category": "Kitchen",
       "price": 350,
       "mrp": 0,
@@ -6172,7 +6172,7 @@
     },
     {
       "id": "P0475",
-      "name": "Splash Proof Soap & Sponge Rack",
+      "name": "SPLASH-PROOF SOAP & SPONGE RACK",
       "category": "Kitchen",
       "price": 800,
       "mrp": 0,
@@ -6237,7 +6237,7 @@
     },
     {
       "id": "P0480",
-      "name": "Kenwood Plus Home Appliances�",
+      "name": "KENWOOD Plus Home Appliances�",
       "category": "Kitchen",
       "price": 4000,
       "mrp": 0,
@@ -6276,7 +6276,7 @@
     },
     {
       "id": "P0483",
-      "name": "7-Speed Hand Mixer Electric Kitchen Beater",
+      "name": "7-Speed Hand Mixer � Electric Kitchen Beater",
       "category": "Kitchen",
       "price": 2200,
       "mrp": 0,
@@ -6406,7 +6406,7 @@
     },
     {
       "id": "P0493",
-      "name": "Bakhoor Amrah",
+      "name": "Bakhoor amrah",
       "category": "Home",
       "price": 1100,
       "mrp": 0,
@@ -6419,7 +6419,7 @@
     },
     {
       "id": "P0494",
-      "name": "Bakhoor Zunesha",
+      "name": "Bakhoor zunesha",
       "category": "Home",
       "price": 1100,
       "mrp": 0,
@@ -6432,7 +6432,7 @@
     },
     {
       "id": "P0495",
-      "name": "Bakhoor Marj",
+      "name": "Bakhoor marj",
       "category": "Home",
       "price": 1100,
       "mrp": 0,
@@ -6471,7 +6471,7 @@
     },
     {
       "id": "P0498",
-      "name": "Plastic Fun 2 Lunch Box With One Spoon",
+      "name": "Plastic FUN 2 Lunch Box With One Spoon",
       "category": "Home",
       "price": 1000,
       "mrp": 0,
